@@ -1,1 +1,3 @@
 # Wildly-Tech-Private-Limited-assignment
+
+There are two Python scripts provided for converting MP3 files to WAV format. The first script takes two arguments - the path to a folder containing MP3 files and the path to the output folder for the converted WAV files. The script loops over all the MP3 files in the input folder, converts them to WAV format using the Pydub library, and saves them in the output folder. The second script takes two arguments - the path to an input MP3 file and the destination folder for the converted WAV file. The script loads the MP3 file, converts it to WAV format using Pydub, and saves it in the destination folder. Both scripts use similar code and can be modified to suit specific use cases.
